@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1507879687 source:e:\cworkspace\jvmmonitor\main.cpp
+	"main.h"
+
+1507883743 e:\cworkspace\jvmmonitor\main.h
+	<windows.h>
+	"jvmti.h"
+	"jni_md.h"
+
+1470905798 e:\cworkspace\jvmmonitor\jvmti.h
+	"jni.h"
+
+1470905798 e:\cworkspace\jvmmonitor\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1470905798 e:\cworkspace\jvmmonitor\jni_md.h
+

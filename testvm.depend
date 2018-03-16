@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1507890879 source:e:\cworkspace\testvm\main.cpp
+	"stdafx.h"
+	"jni.h"
+	"jni_md.h"
+	"windows.h"
+	"jvmti.h"
+	<string>
+	<cstring>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<stdlib.h>
+	"jni_md.h"
+
+1401551410 e:\cworkspace\testvm\stdafx.h
+	"targetver.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jvmti.h"
+
+1401551126 e:\cworkspace\testvm\targetver.h
+	<SDKDDKVer.h>
+
+1470905798 e:\cworkspace\testvm\jvmti.h
+	"jni.h"
+
+1470905798 e:\cworkspace\testvm\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1470905798 e:\cworkspace\testvm\jni_md.h
+
+1401551126 source:e:\cworkspace\testvm\dllmain.cpp
+	"stdafx.h"
+
